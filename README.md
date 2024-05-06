@@ -8,11 +8,7 @@ Basics Question for Logic Building
 5. Write a program to print the smallest number of two.
 6. Write a program to check if a given number is an Armstrong number or not.
 7. Write a program to check if the given number is a natural number.
-8. Search what a "nested loop" is & print this pattern using it.
-        *****
-        *****
-        *****
-        *****
+8. Search what a "nested loop" is & print different pattern using it.
 10.  Write a program to check if a number is prime or not.
 11.  Write a program to print prime numbers in a range
 12.  Write a function to find the sum of digits of a number.
